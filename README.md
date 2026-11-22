@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Larissa Rodrigues
 
 **`Desenvolvedora FullStack`**
 
